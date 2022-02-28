@@ -1,0 +1,7 @@
+user1,Animation
+user1,Comedy
+user2,Action
+user3,Action
+user3,Adventure
+user3,Animation
+user3,Comedy

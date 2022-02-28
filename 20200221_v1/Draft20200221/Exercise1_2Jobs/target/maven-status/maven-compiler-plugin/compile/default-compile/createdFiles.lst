@@ -1,0 +1,5 @@
+it/polito/bigdata/hadoop/ReducerBigData.class
+it/polito/bigdata/hadoop/Reducer2BigData.class
+it/polito/bigdata/hadoop/DriverBigData.class
+it/polito/bigdata/hadoop/Mapper2BigData.class
+it/polito/bigdata/hadoop/MapperBigData.class
